@@ -1,0 +1,4 @@
+pod 'AFNetworking'
+pod 'ObjectiveSugar'
+pod 'NYXImagesKit'
+pod 'iOS-blur'
